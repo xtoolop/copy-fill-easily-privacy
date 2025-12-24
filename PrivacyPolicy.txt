@@ -1,0 +1,66 @@
+Privacy Policy for Copy & Fill Easily
+
+Last updated: December 2025
+
+Overview
+
+Copy & Fill Easily is a browser extension designed to help users copy text from web pages and assist with filling the same information into forms. Your privacy is important to us, and this policy explains how data is handled when you use the extension.
+
+Information We Collect
+
+The extension does not collect personal information such as names, email addresses, or account details.
+
+The extension may temporarily access:
+
+Visible website content (text only) when the user activates copy or fill features
+
+User interactions (such as mouse clicks) only while a feature is actively being used
+
+All access happens only after user action.
+
+How Information Is Used
+
+To copy selected text from a web page
+
+To place copied text into form fields when requested by the user
+
+The extension does not use data for tracking, profiling, advertising, or analytics.
+
+Data Storage
+
+Any copied data is stored temporarily in the browser’s local storage
+
+Data is not sent to external servers
+
+Users can clear stored data at any time using the extension controls
+
+Data Sharing
+
+We do not:
+
+Sell user data
+
+Share user data with third parties
+
+Transfer data outside the extension’s intended functionality
+
+Permissions
+
+The extension requests browser permissions only to:
+
+Access the active tab when a user triggers an action
+
+Store copied data temporarily
+
+Run scripts required for text selection and form filling
+
+Permissions are used only for the extension’s core features.
+
+Children’s Privacy
+
+The extension is not designed to collect personal information from children and does not knowingly collect any personal data.
+
+Changes to This Policy
+
+This Privacy Policy may be updated if the extension changes. Any updates will be reflected on this page.
+
